@@ -16,3 +16,34 @@ html {
 /* ======================================= */
 /*    Students: Write Your Styles Below!   */
 /* ======================================= */
+
+img {
+  position: relative;
+  left: 150px;
+  top: 50px;
+}
+
+.hello {
+  color: rgb(16, 118, 221);
+  font-size: 110px;
+  position: relative;
+  left: 550px;
+  bottom: 375px;
+  font-weight: bold;
+}
+
+.phil {
+  color: rgb(249, 68, 30);
+  font-size: 110px;
+  font-weight: bold;
+  position: relative;
+  left: 500px;
+  bottom: 500px;
+}
+
+
+
+
+
+
+
