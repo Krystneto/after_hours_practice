@@ -37,3 +37,39 @@ img {
 /*==================================*/
 /* Write Your Styles below!!! */
 /*==================================*/
+
+.wishbone {
+  position:relative;
+  left: 225px;
+  top: 50px;
+}
+
+.breadbasket {
+  position: relative;
+  left: 245px;
+  top: 245px;
+  -moz-transform: rotate(-15deg);
+  -webkit-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+}
+
+.heart {
+  position: relative;
+  right: 165px;
+  top: 60px;
+}
+
+.butterflies {
+  position: relative;
+  right: 185px;
+  top: 140px;
+}
+
+
+
+
+
+
+
+
+
