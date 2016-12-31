@@ -12,3 +12,48 @@ html, body {
 
 /* background color in header & footer: #323232 */
 /* text color code for the header/footer: #DBDBDB       */
+
+nav {
+  background-color: #323232;
+  height: 75px;
+
+}
+
+ul {
+  margin: 0px;
+}
+
+li {
+  display: inline-block;
+  font-size: 20px;
+  color: #DBDBDB;
+  margin-top: 25px;
+  position: relative;
+  left: 50px;
+}
+
+.headshot {
+  height: 200px;
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+  left: 150px;
+  top: 150px;
+}
+
+.headshot img {
+  height: 400px;
+}
+
+.personal {
+  position: relative;
+  left: 400px;
+  top: -125px;
+}
+
+.personal p {
+  font-size: 26px;
+  margin: 0px;
+}
+
+
